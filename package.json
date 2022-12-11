@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@loadable/component": "^5.10.3",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "extract-text-webpack-plugin": "^3.0.2",
     "ignore-loader": "^0.1.2",
     "isomorphic-fetch": "^2.2.1",
